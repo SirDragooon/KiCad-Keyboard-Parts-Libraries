@@ -29,3 +29,9 @@
 [submodule "kicad-keyboard-parts.pretty"]
 	path = kicad-keyboard-parts.pretty
 	url = https://github.com/ebastler/kicad-keyboard-parts.pretty
+[submodule "TheKeebrary.pretty"]
+	path = TheKeebrary.pretty
+	url = https://github.com/n0bs/TheKeebrary.pretty
+[submodule "kleeb"]
+	path = kleeb
+	url = https://github.com/crides/kleeb
